@@ -14,6 +14,7 @@ This is your first assignment to help you get started with GitHub and submitting
 
 Ensure you have completed all the following tasks:
 
+- [ ] Clone this repository and make sure that you share it with me. (setting -> Collaborators and Teams -> Add People) (my account is JWLorenzo)
 - [ ] Create multiple commits to your `main` branch by adding two .txt files in two commits, one called `hello` that contains only the word `hello`, and the other called `world`, that contains only the word `world`
 - [ ] Create a new branch with a name that follows the template - `your-initials/an-ice-cream-flavor-of-your-choice`. Example: `jl/cotton-candy` (do not close the branch)
 - [ ] Make at least 1 commit on this new branch (it can be anything, I just need to see the commit history)
