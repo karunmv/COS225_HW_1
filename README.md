@@ -1,8 +1,8 @@
 # COS_225_Homework_1
 
-**Name** - 
+**Name** - KARUN MANOJ VARGHESE 
 
-**Introspection (make sure to add any thoughts about the assignment e.g. was it too hard, too easy, etc)** - 
+**Introspection (make sure to add any thoughts about the assignment e.g. was it too hard, too easy, etc)** - This was a great refresher for all the basics of git!
 
 *DO NOT EDIT BELOW THIS LINE*
 -----------------------------------------------------------------------------------------------------------------------------------------------
